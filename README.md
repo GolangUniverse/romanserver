@@ -72,4 +72,6 @@ We should get the response is as follows:
     400 - Bad request
 
 
+[![Go Reference](https://pkg.go.dev/badge/net/http.svg)](https://pkg.go.dev/net/http)
+
 https://github.com/PacktPublishing/Hands-On-Restful-Web-services-with-Go
